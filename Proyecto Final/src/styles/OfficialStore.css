@@ -1,0 +1,11 @@
+.store {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.store img {
+    width: 20%;
+    height: 20%;
+    margin-top: -45px;
+}
