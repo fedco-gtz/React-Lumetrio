@@ -50,9 +50,9 @@
     display: flex;
     justify-content: center;
     text-decoration: none;
-    color:#242424;
+    color:rgb(222, 241, 134);
     border: 3px solid rgba(0, 31, 85, 0.2);
-    background-color: rgb(242, 242, 242);
+    background-color: #515676;
     border-radius: 50px;
     cursor: pointer;
     margin: 20px auto 0;
@@ -65,8 +65,8 @@
     display: flex;
     justify-content: center;
     border: 3px solid rgba(0, 31, 85, 0.2);
-    background-color: #515676;
-    color: rgba(222, 241, 134);
+    background-color: rgb(255, 44, 71);
+    color: rgb(222, 241, 134);
     border-radius: 50px;
     cursor: pointer;
     margin: 20px auto 0;

@@ -32,8 +32,8 @@ function Cart() {
     if (totalQuantity() === 0) {
         return (
             <div className="counter">
-                <h1 className="tittle">TODAVIA NO ELEGISTE TUS PROXIMAS ZAPATILLAS</h1>
-                <h1 className="tittleMobile">TODAVIA NO ELEGISTE TUS ZAPATILLAS</h1>
+                <h1 className="tittle">TODAVIA NO ELEGISTE TUS FUNKO</h1>
+                <h1 className="tittleMobile">TODAVIA NO ELEGISTE TUS FUNKO</h1>
                 <div className="controls">
                     <Link className='backButton' to="/">IR AL CATÁLOGO</Link>
                 </div>
@@ -44,7 +44,7 @@ function Cart() {
     return (
         <div>
             <div className="tittle">
-                <h1>TUS ZAPATILLAS</h1>
+                <h1>TUS FUNKO</h1>
             </div>
 
             <div className="cartDiv">

@@ -71,13 +71,10 @@ function MyOrders() {
             )}
 
             <div className="linkContainer">
-            <Link className='linkButton' to="/category/airForce">AIR FORCE</Link>
-            <Link className='linkButton' to="/category/airMax">AIR MAX</Link>
-            <Link className='linkButton' to="/category/other/dunk">DUNK</Link>
-            <Link className='linkButton' to="/category/other/infinityRun">INFINITY RUN</Link>
-            <Link className='linkButton' to="/category/jordan">JORDAN</Link>
-            <Link className='linkButton' to="/category/other/metcon">METCON</Link>
-            <Link className='linkButton' to="/category/other/pegasus">PEGASUS</Link>
+            <Link className='linkButton' to="/category/retroToys">RETRO TOYS</Link>
+            <Link className='linkButton' to="/category/disney">DISNEY</Link>
+            <Link className='linkButton' to="/category/harryPotter">HARRY POTTER</Link>
+            <Link className='linkButton' to="/category/other">LO MÁS NUEVO</Link>
             </div>
         </>
     );
